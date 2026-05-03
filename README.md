@@ -1,4 +1,4 @@
-# Robust Invariant Sets for Nonlinear Systems
+# Robust Data-Driven Invariant Sets for Nonlinear Systems
 
 Please check out the paper for more details:
 Robust Data-Driven Invariant Sets for Nonlinear Systems
